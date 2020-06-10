@@ -1,8 +1,0 @@
-version: 2.0.0
-files:
-  - url: tada-electron-Setup-2.0.0.exe
-    sha512: VS/vT9V5IT215wNgip3IKjgkcX+elktUqlZUZA3g5OxSi97gBCIiKOnJFEYPD+ERUqsyVSONQerr/UYDs0ZzpQ==
-    size: 51043820
-path: tada-electron-Setup-2.0.0.exe
-sha512: VS/vT9V5IT215wNgip3IKjgkcX+elktUqlZUZA3g5OxSi97gBCIiKOnJFEYPD+ERUqsyVSONQerr/UYDs0ZzpQ==
-releaseDate: '2020-06-10T16:56:17.456Z'
