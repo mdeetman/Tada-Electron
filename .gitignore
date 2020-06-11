@@ -1,7 +1,0 @@
-node_modules/
-yarn.lock
-electron-builder.yml
-dist/
-src/
-package-lock.json
-package.json
